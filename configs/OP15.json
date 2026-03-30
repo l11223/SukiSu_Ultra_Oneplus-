@@ -2,7 +2,7 @@
   "model": "OP15",
   "soc": "SM8850",
   "branch": "oneplus/sm8850",
-  "manifest": "oneplus_15.xml",
+  "manifest": "https://raw.githubusercontent.com/WildKernels/OnePlus_KernelSU_SUSFS/main/manifests/oos16/oneplus_15_w.xml",
   "android_version": "android16",
   "kernel_version": "6.12",
   "hmbird": false
