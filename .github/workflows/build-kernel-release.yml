@@ -16,6 +16,7 @@ on:
         type: choice
         options:
           - ALL
+          - OP15
           - android16-6.12      
           - android15-6.6
           - android14-6.1
